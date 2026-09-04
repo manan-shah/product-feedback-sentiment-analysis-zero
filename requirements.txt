@@ -8,3 +8,12 @@ pillow>=12.1.1
 fonttools>=4.60.0
 filelock>=3.20.3
 Pygments==2.20.0
+transformers
+torch
+pandas
+openpyxl
+gradio
+huggingface_hub
+python-dotenv
+sentiment
+sentiment_classifier
